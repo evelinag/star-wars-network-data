@@ -1,4 +1,6 @@
 # Star Wars social networks
+[![DOI](https://zenodo.org/badge/147848071.svg)](https://zenodo.org/badge/latestdoi/147848071)
+
 
 Contents of the files are the following:
 
